@@ -33,6 +33,7 @@ adevar = false;
 
 
 for  (i = 0; i < 6; i++){
+cout<<"Numerele de săptămâna asceasta la loto sunt:";
 cout <<" "<< a[i] << " ";}		//afisam numerele generate
 
 }

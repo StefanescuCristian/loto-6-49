@@ -34,6 +34,7 @@ adevar = false;
 
 
 for  (i = 0; i < 6; i++){
+cout<<"Numerele de săptămâna aceasta la loto sunt:"
 cout <<" "<< a[i] << " ";}		//afisam numerele generate
 
 getch();}
